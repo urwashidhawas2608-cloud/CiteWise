@@ -1,0 +1,23 @@
+AI-Assisted Citation Management in Academic Research
+
+Introduction
+
+Academic research increasingly uses machine learning and deep learning techniques to analyze large collections of information. Previous studies have shown that neural network methods can achieve strong results in image classification and text processing. Researchers also use natural language processing to identify important information from scientific documents.
+
+Problem Statement
+
+Students often spend substantial time searching for academic references and formatting citations. A citation management system can reduce repetitive work by organizing bibliographic information and generating references in a consistent style. However, a useful system should distinguish between a researcher's own statement and a claim that requires evidence.
+
+Proposed System
+
+The proposed CiteWise system analyzes a research document and identifies statements that may require external evidence. Machine learning and natural language processing techniques can be used to compare a claim with the content of candidate academic sources. Semantic similarity can help identify sources that discuss related concepts.
+
+The system retrieves candidate sources from an academic metadata collection and calculates a relevance score. A human researcher can review the suggested source before accepting a citation. This human-in-the-loop approach is useful because automated systems may select a source that is related to a topic without directly supporting every claim.
+
+Evaluation
+
+The prototype can report citation coverage as the percentage of citation-requiring claims for which a relevant source was found. A higher coverage value does not by itself prove that every citation is correct, so human verification remains important.
+
+Conclusion
+
+An AI-assisted citation management workflow can reduce repetitive reference-management tasks while keeping the researcher responsible for the final citation decision.

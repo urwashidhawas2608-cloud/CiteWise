@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Deep Learning",
+    "authors": "Y. LeCun, Y. Bengio, and G. Hinton",
+    "year": 2015,
+    "venue": "Nature",
+    "doi": "10.1038/nature14539",
+    "abstract": "Deep learning allows computational models that are composed of multiple processing layers to learn representations of data with multiple levels of abstraction. Deep learning has achieved major advances in image recognition, speech recognition, and other machine learning tasks."
+  },
+  {
+    "title": "Attention Is All You Need",
+    "authors": "A. Vaswani et al.",
+    "year": 2017,
+    "venue": "Advances in Neural Information Processing Systems",
+    "doi": "10.48550/arXiv.1706.03762",
+    "abstract": "The Transformer architecture is based on attention mechanisms rather than recurrence and convolution. The model demonstrated strong results for sequence transduction and natural language processing."
+  },
+  {
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "authors": "J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova",
+    "year": 2019,
+    "venue": "Proceedings of NAACL-HLT",
+    "doi": "10.18653/v1/N19-1423",
+    "abstract": "BERT is a bidirectional transformer representation model for language understanding. It can be fine-tuned for a wide range of natural language processing tasks."
+  },
+  {
+    "title": "The Unreasonable Effectiveness of Data",
+    "authors": "A. Halevy, P. Norvig, and F. Pereira",
+    "year": 2009,
+    "venue": "IEEE Intelligent Systems",
+    "doi": "10.1109/MIS.2009.36",
+    "abstract": "Large datasets can improve performance for machine learning and natural language processing systems. The work discusses the relationship between data volume and statistical learning."
+  },
+  {
+    "title": "Machine Learning: Trends, Perspectives, and Prospects",
+    "authors": "M. I. Jordan and T. M. Mitchell",
+    "year": 2015,
+    "venue": "Science",
+    "doi": "10.1126/science.aaa8415",
+    "abstract": "Machine learning focuses on computational methods that improve through experience. The article reviews applications, trends, and challenges in machine learning research."
+  },
+  {
+    "title": "Computer Vision: Algorithms and Applications",
+    "authors": "R. Szeliski",
+    "year": 2022,
+    "venue": "Springer",
+    "doi": "",
+    "abstract": "Computer vision studies methods for acquiring, processing, analyzing, and understanding images. Topics include image classification, feature extraction, recognition, and visual learning."
+  }
+]
