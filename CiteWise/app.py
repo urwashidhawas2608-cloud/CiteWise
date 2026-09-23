@@ -17,8 +17,6 @@ with st.sidebar:
         st.success("🤖 LLM agent active (Groq)")
     else:
         st.warning("Rule-based mode — add GROQ_API_KEY in .env for AI-powered detection")
-    st.markdown("---")
-    st.info("Demo mode works with the included dataset. For live academic search, add an API key in `.env`.")
 
 uploaded = st.file_uploader("Upload a research paper", type=["pdf", "txt"])
 
